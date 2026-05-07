@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Trigger Cloudflare Deploy Hook
         run: |
-          curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/48be74fb-8da7-408d-aa4c-5609b5816f0d"
+          curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/20d24af0-e75e-43f6-ab33-9964702c1740"
